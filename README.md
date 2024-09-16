@@ -7,6 +7,8 @@ AI Reader is a Flask web application that allows users to input a URL of an arti
 ---
 https://ai-reader-mu.vercel.app/
 ---
+Find the source code here
+---
 
 ### Usage
 
